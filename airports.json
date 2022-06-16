@@ -1,942 +1,1177 @@
 {
 	"LIT": {
 		"lat": 34.729444,
-		"long": -92.224444
+		"long": -92.224444,
+		"city": "Adams Airport, Little Rock, AR"
 	},
 	"CAK": {
 		"lat": 40.916111,
-		"long": -81.442222
+		"long": -81.442222,
+		"city": "Akron-Canton Regional Airport, Akron, OH"
 	},
 	"ALB": {
 		"lat": 42.733333,
-		"long": -73.8
+		"long": -73.8,
+		"city": "Albany Cty Airport, Albany, NY"
 	},
 	"CHO": {
 		"lat": 38.133333,
-		"long": -78.45
+		"long": -78.45,
+		"city": "Charlottesville-Albermarle Airport, Charlottesville, VA"
 	},
 	"ABQ": {
 		"lat": 35.040278,
-		"long": -106.609167
+		"long": -106.609167,
+		"city": "Albuquerque International Airport, Albuquerque, NM"
 	},
 	"AEX": {
 		"lat": 31.3275,
-		"long": -92.548611
+		"long": -92.548611,
+		"city": "Alexandria International Airport, Alexandria, LA"
 	},
 	"APN": {
 		"lat": 45.083333,
-		"long": -83.55
+		"long": -83.55,
+		"city": "Alpena County Regional Airport, Alpena, MI"
 	},
 	"ACV": {
 		"lat": 40.983333,
-		"long": -124.1
+		"long": -124.1,
+		"city": "Arcata Airport, Arcata/Eureka, CA"
 	},
 	"AVL": {
 		"lat": 35.436111,
-		"long": -82.541667
+		"long": -82.541667,
+		"city": "Asheville Regional Airport, Asheville, NC"
 	},
 	"AUS": {
 		"lat": 30.194444,
-		"long": -97.67
+		"long": -97.67,
+		"city": "Austin-Bergstrom International Airport, Austin, TX"
 	},
 	"GRB": {
 		"lat": 44.483333,
-		"long": -88.133333
+		"long": -88.133333,
+		"city": "Austin Straubel International Airport, Green Bay, WI"
 	},
 	"BWI": {
 		"lat": 39.175278,
-		"long": -76.668333
+		"long": -76.668333,
+		"city": "Baltimore-Washington International Airport, Baltimore, MD"
 	},
 	"BGR": {
 		"lat": 44.8,
-		"long": -68.816667
+		"long": -68.816667,
+		"city": "Bangor International Airport, Bangor, ME"
 	},
 	"PAH": {
 		"lat": 37.060278,
-		"long": -88.773056
+		"long": -88.773056,
+		"city": "Barkley Regional Airport, Paducah, KY"
 	},
 	"PFN": {
 		"lat": 30.216667,
-		"long": -85.683333
+		"long": -85.683333,
+		"city": "Panama City-Bay County International Airport, Panama City, FL"
 	},
 	"BLI": {
 		"lat": 48.8,
-		"long": -122.533333
+		"long": -122.533333,
+		"city": "Bellingham Intl Airport, Bellingham, WA"
 	},
 	"BJI": {
 		"lat": 47.516667,
-		"long": -94.933333
+		"long": -94.933333,
+		"city": "Bemidji-Beltrami County Airport, Bemidji, MN"
 	},
 	"BTM": {
 		"lat": 45.954722,
-		"long": -112.4975
+		"long": -112.4975,
+		"city": "Bert Mooney Airport, Butte, MT"
 	},
 	"BIL": {
 		"lat": 45.8,
-		"long": -108.533333
+		"long": -108.533333,
+		"city": "Billings Logan Intl Airport, Billings, MT"
 	},
 	"BHM": {
 		"lat": 33.566667,
-		"long": -86.75
+		"long": -86.75,
+		"city": "Birmingham International Airport, Birmingham, AL"
 	},
 	"FNT": {
 		"lat": 42.965556,
-		"long": -83.743611
+		"long": -83.743611,
+		"city": "Bishop Airport, Flint, MI"
 	},
 	"BIS": {
 		"lat": 46.783333,
-		"long": -100.75
+		"long": -100.75,
+		"city": "Bismarck Municipal Airport, Bismarck, ND"
 	},
 	"LEX": {
 		"lat": 38.036389,
-		"long": -84.605833
+		"long": -84.605833,
+		"city": "Blue Grass Airport, Lexington, KY"
 	},
 	"BUR": {
 		"lat": 34.2,
-		"long": -118.35
+		"long": -118.35,
+		"city": "Burbank-Glendale-Pasadena Airport, Burbank, CA"
 	},
 	"BOI": {
 		"lat": 43.564444,
-		"long": -116.222778
+		"long": -116.222778,
+		"city": "Boise Air Terminal Airport, Boise, ID"
 	},
 	"BDL": {
 		"lat": 41.938889,
-		"long": -72.683333
+		"long": -72.683333,
+		"city": "Bradley International Airport, Windsor Locks, CT"
 	},
 	"BRD": {
 		"lat": 46.401667,
-		"long": -94.135556
+		"long": -94.135556,
+		"city": "Brainerd-Crow Wing County Regional Airport, Brainerd, MN"
 	},
 	"BUF": {
 		"lat": 42.940556,
-		"long": -78.732222
+		"long": -78.732222,
+		"city": "Buffalo Niagara Intl Airport, Buffalo, NY"
 	},
 	"BTV": {
 		"lat": 44.471944,
-		"long": -73.153333
+		"long": -73.153333,
+		"city": "Burlington International Airport, Burlington, VT"
 	},
 	"AGS": {
 		"lat": 33.366667,
-		"long": -81.966667
+		"long": -81.966667,
+		"city": "Bush Airport, Augusta, GA"
 	},
 	"LAN": {
 		"lat": 42.783333,
-		"long": -84.583333
+		"long": -84.583333,
+		"city": "Capital City Airport, Lansing, MI"
 	},
 	"CID": {
 		"lat": 41.884722,
-		"long": -91.710833
+		"long": -91.710833,
+		"city": "Eastern Iowa Airport, Cedar Rapids, IA"
 	},
 	"BMI": {
 		"lat": 40.477222,
-		"long": -88.915833
+		"long": -88.915833,
+		"city": "Central Illinois Regional Airport, Bloomington, IL"
 	},
 	"CWA": {
 		"lat": 44.769444,
-		"long": -89.683056
+		"long": -89.683056,
+		"city": "Central Wisconsin Airport, Mosinee, WI"
 	},
 	"CHS": {
 		"lat": 32.898611,
-		"long": -80.040556
+		"long": -80.040556,
+		"city": "Charleston AFB/International Airport, Charleston, SC"
 	},
 	"CLT": {
 		"lat": 35.216667,
-		"long": -80.933333
+		"long": -80.933333,
+		"city": "Charlotte/Douglas International Airport, Charlotte, NC"
 	},
 	"TVC": {
 		"lat": 44.741389,
-		"long": -85.582222
+		"long": -85.582222,
+		"city": "Cherry Capital Airport, Traverse City, MI"
 	},
 	"ORD": {
 		"lat": 41.978611,
-		"long": -87.904722
+		"long": -87.904722,
+		"city": "Chicago O'Hare International Airport, Chicago, IL"
 	},
 	"CIU": {
 		"lat": 46.25,
-		"long": -84.466667
+		"long": -84.466667,
+		"city": "Chippewa County International Airport, Sault Ste. Marie, MI"
 	},
 	"EAU": {
 		"lat": 44.865833,
-		"long": -91.484167
+		"long": -91.484167,
+		"city": "Chippewa Valley Regional Airport, Eau Claire, WI"
 	},
 	"HIB": {
 		"lat": 47.383333,
-		"long": -92.833333
+		"long": -92.833333,
+		"city": "Chisholm-Hibbing Airport, Hibbing, MN"
 	},
 	"CVG": {
 		"lat": 39.048889,
-		"long": -84.667778
+		"long": -84.667778,
+		"city": "Cincinnati Northern Kentucky Intl Airport, Covington, KY"
 	},
 	"HVR": {
 		"lat": 48.55,
-		"long": -109.766667
+		"long": -109.766667,
+		"city": "Havre City-County Airport, Havre, MT"
 	},
 	"COS": {
 		"lat": 38.816667,
-		"long": -104.716667
+		"long": -104.716667,
+		"city": "City of Colorado Springs Muni Airport, Colorado Springs, CO"
 	},
 	"DFW": {
 		"lat": 32.896944,
-		"long": -97.038056
+		"long": -97.038056,
+		"city": "Dallas-Fort Worth International Airport, Dallas-Fort Worth, TX"
 	},
 	"MSN": {
 		"lat": 43.139722,
-		"long": -89.3375
+		"long": -89.3375,
+		"city": "Dane County Regional Airport, Madison, WI"
 	},
 	"MGM": {
 		"lat": 32.3,
-		"long": -86.4
+		"long": -86.4,
+		"city": "Montgomery Regional Apt Airport, Montgomery, AL"
 	},
 	"GDV": {
 		"lat": 47.133333,
-		"long": -104.683333
+		"long": -104.683333,
+		"city": "Dawson Community Airport, Glendive, MT"
 	},
 	"DEN": {
 		"lat": 39.861667,
-		"long": -104.673056
+		"long": -104.673056,
+		"city": "Denver Intl Airport, Denver, CO"
 	},
 	"DSM": {
 		"lat": 41.533889,
-		"long": -93.663056
+		"long": -93.663056,
+		"city": "Des Moines International Airport, Des Moines, IA"
 	},
 	"DTW": {
 		"lat": 42.2125,
-		"long": -83.353333
+		"long": -83.353333,
+		"city": "Detroit Metropolitan-Wayne County Airport, Detroit, MI"
 	},
 	"DVL": {
 		"lat": 48.116667,
-		"long": -98.9
+		"long": -98.9,
+		"city": "Devils Lake Municipal-Knoke Airport, Devils Lake, ND"
 	},
 	"DHN": {
 		"lat": 31.316667,
-		"long": -85.45
+		"long": -85.45,
+		"city": "Dothan Airport, Dothan, AL"
 	},
 	"DLH": {
 		"lat": 46.833333,
-		"long": -92.183333
+		"long": -92.183333,
+		"city": "Duluth International Airport, Duluth, MN"
 	},
 	"EGE": {
 		"lat": 39.633333,
-		"long": -106.916667
+		"long": -106.916667,
+		"city": "Eagle County Regional Airport, Eagle, CO"
 	},
 	"VPS": {
 		"lat": 30.483333,
-		"long": -86.525278
+		"long": -86.525278,
+		"city": "Eglin Air Force Base Airport, Valparaiso, FL"
 	},
 	"ELP": {
 		"lat": 31.8,
-		"long": -106.383333
+		"long": -106.383333,
+		"city": "El Paso International Airport, El Paso, TX"
 	},
 	"ELM": {
 		"lat": 42.166667,
-		"long": -76.9
+		"long": -76.9,
+		"city": "Elmira/Corning Regional Airport, Elmira, NY"
 	},
 	"PLN": {
 		"lat": 45.566667,
-		"long": -84.8
+		"long": -84.8,
+		"city": "Pellston Regional  of Emmet County Airport, Pellston, MI"
 	},
 	"OMA": {
 		"lat": 41.3,
-		"long": -95.9
+		"long": -95.9,
+		"city": "Eppley Airfield Airport, Omaha, NE"
 	},
 	"EUG": {
 		"lat": 44.116667,
-		"long": -123.216667
+		"long": -123.216667,
+		"city": "Mahlon Sweet Airport, Eugene, OR"
 	},
 	"EVV": {
 		"lat": 38.036944,
-		"long": -87.5325
+		"long": -87.5325,
+		"city": "Evansville Regional Airport, Evansville, IN"
 	},
 	"INL": {
 		"lat": 48.566667,
-		"long": -93.4
+		"long": -93.4,
+		"city": "Falls International Airport, International Falls, MN"
 	},
 	"IDA": {
 		"lat": 43.516667,
-		"long": -112.066667
+		"long": -112.066667,
+		"city": "Idaho Falls Regional Airport, Idaho Falls, ID"
 	},
 	"FOD": {
 		"lat": 42.551111,
-		"long": -94.191944
+		"long": -94.191944,
+		"city": "Fort Dodge Municipal Airport, Fort Dodge, IA"
 	},
 	"FLL": {
 		"lat": 26.0725,
-		"long": -80.152778
+		"long": -80.152778,
+		"city": "Fort Lauderdale-Hollywood Int'l Airport, Ft. Lauderdale, FL"
 	},
 	"FAT": {
 		"lat": 36.766667,
-		"long": -119.716667
+		"long": -119.716667,
+		"city": "Fresno Yosemite International Airport, Fresno, CA"
 	},
 	"GNV": {
 		"lat": 29.683333,
-		"long": -82.266667
+		"long": -82.266667,
+		"city": "Gainesville Regional Airport, Gainesville, FL"
 	},
 	"BZN": {
 		"lat": 45.7775,
-		"long": -111.153056
+		"long": -111.153056,
+		"city": "Gallatin Airport, Bozeman, MT"
 	},
 	"MKE": {
 		"lat": 42.95,
-		"long": -87.9
+		"long": -87.9,
+		"city": "General Mitchell International Airport, Milwaukee, WI"
 	},
 	"IAH": {
 		"lat": 29.984444,
-		"long": -95.341389
+		"long": -95.341389,
+		"city": "George Bush Intercontinental Airport, Houston, TX"
 	},
 	"FCA": {
 		"lat": 48.316667,
-		"long": -114.266667
+		"long": -114.266667,
+		"city": "Glacier Park Intl Airport, Kalispell, MT"
 	},
 	"GFK": {
 		"lat": 47.95,
-		"long": -97.183333
+		"long": -97.183333,
+		"city": "Grand Forks International Airport, Grand Forks, ND"
 	},
 	"BGM": {
 		"lat": 42.208611,
-		"long": -75.979722
+		"long": -75.979722,
+		"city": "Binghamton Regional Airport, Binghamton, NY"
 	},
 	"PIA": {
 		"lat": 40.666667,
-		"long": -89.683333
+		"long": -89.683333,
+		"city": "Greater Peoria Regional Airport, Peoria, IL"
 	},
 	"ROC": {
 		"lat": 43.118889,
-		"long": -77.6725
+		"long": -77.6725,
+		"city": "Greater Rochester Int'l Airport, Rochester, NY"
 	},
 	"GLH": {
 		"lat": 33.477222,
-		"long": -90.985
+		"long": -90.985,
+		"city": "Mid Delta Regional Airport, Greenville, MS"
 	},
 	"GSP": {
 		"lat": 34.895556,
-		"long": -82.218889
+		"long": -82.218889,
+		"city": "Greenville-Spartanburg Airport, Greer, SC"
 	},
 	"GPT": {
 		"lat": 30.4,
-		"long": -89.066667
+		"long": -89.066667,
+		"city": "Gulfport-Biloxi Regional Airport, Gulfport-Biloxi, MS"
 	},
 	"MDT": {
 		"lat": 40.193611,
-		"long": -76.763333
+		"long": -76.763333,
+		"city": "Harrisburg Intl Airport, Harrisburg, PA"
 	},
 	"ATL": {
 		"lat": 33.636667,
-		"long": -84.428056
+		"long": -84.428056,
+		"city": "William B Hartsfield-Atlanta Intl Airport, Atlanta, GA"
 	},
 	"PIB": {
 		"lat": 31.467222,
-		"long": -89.336944
+		"long": -89.336944,
+		"city": "Hattiesburg-Laurel Regional Airport, Hattiesburg-Laurel, MS"
 	},
 	"FAR": {
 		"lat": 46.916667,
-		"long": -96.816667
+		"long": -96.816667,
+		"city": "Hector International Airport, Fargo, ND"
 	},
 	"HLN": {
 		"lat": 46.6,
-		"long": -111.983333
+		"long": -111.983333,
+		"city": "Helena Regional Airport, Helena, MT"
 	},
 	"CLE": {
 		"lat": 41.416667,
-		"long": -81.85
+		"long": -81.85,
+		"city": "Cleveland-Hopkins Intl Airport, Cleveland, OH"
 	},
 	"CMX": {
 		"lat": 47.123611,
-		"long": -88.573333
+		"long": -88.573333,
+		"city": "Houghton County Memorial Airport, Hancock, MI"
 	},
 	"HSV": {
 		"lat": 34.637222,
-		"long": -86.775
+		"long": -86.775,
+		"city": "Huntsville International Airport, Huntsville, AL"
 	},
 	"IND": {
 		"lat": 39.717222,
-		"long": -86.294722
+		"long": -86.294722,
+		"city": "Indianapolis International Airport, Indianapolis, IN"
 	},
 	"ERI": {
 		"lat": 42.083333,
-		"long": -80.183333
+		"long": -80.183333,
+		"city": "Erie Intl Airport, Erie, PA"
 	},
 	"GGW": {
 		"lat": 48.216667,
-		"long": -106.616667
+		"long": -106.616667,
+		"city": "Wokal Field/Glasgow Intl Airport, Glasgow, MT"
 	},
 	"GTF": {
 		"lat": 47.5,
-		"long": -111.366667
+		"long": -111.366667,
+		"city": "Great Falls Intl Airport, Great Falls, MT"
 	},
 	"EYW": {
 		"lat": 24.55,
-		"long": -81.766667
+		"long": -81.766667,
+		"city": "Key West International Airport, Key West, FL"
 	},
 	"MOT": {
 		"lat": 48.266667,
-		"long": -101.283333
+		"long": -101.283333,
+		"city": "Minot International Airport, Minot, ND"
 	},
 	"RST": {
 		"lat": 43.908333,
-		"long": -92.5
+		"long": -92.5,
+		"city": "Rochester International Airport, Rochester, MN"
 	},
 	"OLF": {
 		"lat": 48.083333,
-		"long": -105.566667
+		"long": -105.566667,
+		"city": "L M Clayton Airport, Wolf Point, MT"
 	},
 	"PWM": {
 		"lat": 43.65,
-		"long": -70.3
+		"long": -70.3,
+		"city": "Portland International Jetport Airport, Portland, ME"
 	},
 	"JAN": {
 		"lat": 32.311111,
-		"long": -90.075833
+		"long": -90.075833,
+		"city": "Jackson International Airport, Jackson, MS"
 	},
 	"JAX": {
 		"lat": 30.416667,
-		"long": -81.633333
+		"long": -81.633333,
+		"city": "Jacksonville International Airport, Jacksonville, FL"
 	},
 	"DAY": {
 		"lat": 39.75,
-		"long": -84.183333
+		"long": -84.183333,
+		"city": "James M Cox Dayton Intl Airport, Dayton, OH"
 	},
 	"JMS": {
 		"lat": 46.933333,
-		"long": -98.683333
+		"long": -98.683333,
+		"city": "Jamestown Municipal Airport, Jamestown, ND"
 	},
 	"BPT": {
 		"lat": 30.083333,
-		"long": -94.1
+		"long": -94.1,
+		"city": "Southeast Texas Regional Airport, Beaumont/Port Arthur, TX"
 	},
 	"FSD": {
 		"lat": 43.581944,
-		"long": -96.741944
+		"long": -96.741944,
+		"city": "Joe Foss Airport, Sioux Falls, SD"
 	},
 	"JFK": {
 		"lat": 40.633333,
-		"long": -73.783333
+		"long": -73.783333,
+		"city": "John F Kennedy Intl Airport, New York, NY"
 	},
 	"SNA": {
 		"lat": 33.666667,
-		"long": -117.866667
+		"long": -117.866667,
+		"city": "John Wayne /Orange Co Airport, Santa Ana, CA"
 	},
 	"AZO": {
 		"lat": 42.235,
-		"long": -85.551944
+		"long": -85.551944,
+		"city": "Kalamazoo County Airport, Kalamazoo, MI"
 	},
 	"MCI": {
 		"lat": 39.291667,
-		"long": -94.730556
+		"long": -94.730556,
+		"city": "Kansas City International Airport, Kansas City, MO"
 	},
 	"GRR": {
 		"lat": 42.883333,
-		"long": -85.533333
+		"long": -85.533333,
+		"city": "Kent County International Airport, Grand Rapids, MI"
 	},
 	"MEI": {
 		"lat": 32.333333,
-		"long": -88.75
+		"long": -88.75,
+		"city": "Key Airport, Meridian, MS"
 	},
 	"LMT": {
 		"lat": 42.166667,
-		"long": -121.733333
+		"long": -121.733333,
+		"city": "Klamath Falls International Airport, Klamath Falls, OR"
 	},
 	"LGA": {
 		"lat": 40.766667,
-		"long": -73.866667
+		"long": -73.866667,
+		"city": "LaGuardia Airport, New York, NY"
 	},
 	"LFT": {
 		"lat": 30.205278,
-		"long": -91.9875
+		"long": -91.9875,
+		"city": "Lafayette Regional Airport, Lafayette, LA"
 	},
 	"STL": {
 		"lat": 38.748611,
-		"long": -90.37
+		"long": -90.37,
+		"city": "Lambert-St Louis International Airport, St Louis, MO"
 	},
 	"ABE": {
 		"lat": 40.652222,
-		"long": -75.440278
+		"long": -75.440278,
+		"city": "Lehigh Valley International Airport, Allentown, PA"
 	},
 	"TUP": {
 		"lat": 34.268056,
-		"long": -88.77
+		"long": -88.77,
+		"city": "Tupelo Municipal Airport, Tupelo, MS"
 	},
 	"LNK": {
 		"lat": 40.850833,
-		"long": -96.759167
+		"long": -96.759167,
+		"city": "Lincoln Municipal Airport, Lincoln, NE"
 	},
 	"BOS": {
 		"lat": 42.363056,
-		"long": -71.0
+		"long": -71.0,
+		"city": "Gen Edw L Logan Intl Airport, Boston, MA"
 	},
 	"LGB": {
 		"lat": 33.816667,
-		"long": -118.15
+		"long": -118.15,
+		"city": "Long Beach (Daugherty) Airport, Long Beach, CA"
 	},
 	"ISP": {
 		"lat": 40.795278,
-		"long": -73.100278
+		"long": -73.100278,
+		"city": "Long Island - MacArthur Airport, Islip, NY"
 	},
 	"LAX": {
 		"lat": 33.9425,
-		"long": -118.407222
+		"long": -118.407222,
+		"city": "Los Angeles International Airport, Los Angeles, CA"
 	},
 	"MSY": {
 		"lat": 29.993333,
-		"long": -90.258056
+		"long": -90.258056,
+		"city": "New Orleans International Airport, New Orleans, LA"
 	},
 	"SDF": {
 		"lat": 38.174444,
-		"long": -85.736111
+		"long": -85.736111,
+		"city": "Louisville International-Standiford Airport, Louisville, KY"
 	},
 	"DAL": {
 		"lat": 32.852778,
-		"long": -96.85
+		"long": -96.85,
+		"city": "Dallas Love Airport, Dallas, TX"
 	},
 	"CHA": {
 		"lat": 35.035278,
-		"long": -85.203889
+		"long": -85.203889,
+		"city": "Lovell Airport, Chattanooga, TN"
 	},
 	"MHT": {
 		"lat": 42.9325,
-		"long": -71.435556
+		"long": -71.435556,
+		"city": "Manchester Airport, Manchester, NH"
 	},
 	"MCW": {
 		"lat": 43.157778,
-		"long": -93.331389
+		"long": -93.331389,
+		"city": "Mason City Municipal Airport, Mason City, IA"
 	},
 	"MBS": {
 		"lat": 43.532778,
-		"long": -83.079722
+		"long": -83.079722,
+		"city": "Mbs International Airport, Saginaw, MI"
 	},
 	"MFE": {
 		"lat": 26.175833,
-		"long": -98.238611
+		"long": -98.238611,
+		"city": "McAllen Miller International Airport, McAllen, TX"
 	},
 	"LAS": {
 		"lat": 36.083333,
-		"long": -115.166667
+		"long": -115.166667,
+		"city": "McCarran International Airport, Las Vegas, NV"
 	},
 	"TYS": {
 		"lat": 35.95,
-		"long": -83.916667
+		"long": -83.916667,
+		"city": "McGhee-Tyson Airport, Knoxville, TN"
 	},
 	"MLB": {
 		"lat": 28.1,
-		"long": -80.633333
+		"long": -80.633333,
+		"city": "Melbourne International Airport, Melbourne, FL"
 	},
 	"MEM": {
 		"lat": 35.066667,
-		"long": -89.966667
+		"long": -89.966667,
+		"city": "Memphis International Airport, Memphis, TN"
 	},
 	"CAE": {
 		"lat": 33.95,
-		"long": -81.116667
+		"long": -81.116667,
+		"city": "Columbia Metropolitan Airport, Columbia, SC"
 	},
 	"MIA": {
 		"lat": 25.783333,
-		"long": -80.266667
+		"long": -80.266667,
+		"city": "Miami International Airport, Miami, FL"
 	},
 	"ICT": {
 		"lat": 37.65,
-		"long": -97.433333
+		"long": -97.433333,
+		"city": "Wichita Mid-Continent Airport, Wichita, KS"
 	},
 	"MDW": {
 		"lat": 41.783333,
-		"long": -87.75
+		"long": -87.75,
+		"city": "Chicago Midway Airport, Chicago, IL"
 	},
 	"SJC": {
 		"lat": 37.352778,
-		"long": -121.919444
+		"long": -121.919444,
+		"city": "San Jose International Airport, San Jose, CA"
 	},
 	"MSP": {
 		"lat": 44.883333,
-		"long": -93.216944
+		"long": -93.216944,
+		"city": "Minneapolis-St Paul Intl Airport, Minneapolis, MN"
 	},
 	"MSO": {
 		"lat": 46.916667,
-		"long": -114.083333
+		"long": -114.083333,
+		"city": "Missoula International Airport, Missoula, MT"
 	},
 	"MOB": {
 		"lat": 30.691111,
-		"long": -88.242778
+		"long": -88.242778,
+		"city": "Mobile Regional Airport, Mobile, AL"
 	},
 	"MRY": {
 		"lat": 36.583333,
-		"long": -121.85
+		"long": -121.85,
+		"city": "Monterey Peninsula Airport, Monterey, CA"
 	},
 	"ABR": {
 		"lat": 45.45,
-		"long": -98.433333
+		"long": -98.433333,
+		"city": "Aberdeen Regional Airport, Aberdeen, SD"
 	},
 	"LSE": {
 		"lat": 43.883333,
-		"long": -91.25
+		"long": -91.25,
+		"city": "La Crosse Municipal Airport, La Crosse, WI"
 	},
 	"LCH": {
 		"lat": 30.116667,
-		"long": -93.216667
+		"long": -93.216667,
+		"city": "Lake Charles Regional Airport, Lake Charles, LA"
 	},
 	"LWT": {
 		"lat": 47.05,
-		"long": -109.466667
+		"long": -109.466667,
+		"city": "Lewistown Muni Airport, Lewistown, MT"
 	},
 	"MLS": {
 		"lat": 46.433333,
-		"long": -105.883333
+		"long": -105.883333,
+		"city": "Frank Wiley Airport, Miles City, MT"
 	},
 	"MLU": {
 		"lat": 32.5,
-		"long": -92.033333
+		"long": -92.033333,
+		"city": "Monroe Regional Airport, Monroe, LA"
 	},
 	"PSP": {
 		"lat": 33.833333,
-		"long": -116.5
+		"long": -116.5,
+		"city": "Palm Springs International Airport, Palm Springs, CA"
 	},
 	"STC": {
 		"lat": 45.583333,
-		"long": -94.183333
+		"long": -94.183333,
+		"city": "St Cloud Regional Airport, St Cloud, MN"
 	},
 	"SBA": {
 		"lat": 33.426111,
-		"long": -119.840278
+		"long": -119.840278,
+		"city": "Santa Barbara Municipal Airport, Santa Barbara, CA"
 	},
 	"FWA": {
 		"lat": 41.116667,
-		"long": -85.116667
+		"long": -85.116667,
+		"city": "Fort Wayne International Airport, Fort Wayne, IN"
 	},
 	"MKG": {
 		"lat": 43.166667,
-		"long": -86.233333
+		"long": -86.233333,
+		"city": "Muskegon County Airport, Muskegon, MI"
 	},
 	"MYR": {
 		"lat": 33.7,
-		"long": -78.966667
+		"long": -78.966667,
+		"city": "Myrtle Beach International Airport, Myrtle Beach, SC"
 	},
 	"BNA": {
 		"lat": 36.124444,
-		"long": -86.678056
+		"long": -86.678056,
+		"city": "Nashville International Airport, Nashville, TN"
 	},
 	"CPR": {
 		"lat": 42.908056,
-		"long": -106.464444
+		"long": -106.464444,
+		"city": "Natrona County Intl Airport, Casper, WY"
 	},
 	"EWR": {
 		"lat": 40.6925,
-		"long": -74.168611
+		"long": -74.168611,
+		"city": "Newark Intl Airport, Newark, NJ"
 	},
 	"PHF": {
 		"lat": 37.133333,
-		"long": -76.5
+		"long": -76.5,
+		"city": "Newport News/Williamsburg International Airport, Newport News, VA"
 	},
 	"LWS": {
 		"lat": 46.383333,
-		"long": -117.033333
+		"long": -117.033333,
+		"city": "Lewiston-Nez Perce County Airport, Lewiston, ID"
 	},
 	"ORF": {
 		"lat": 36.9,
-		"long": -76.2
+		"long": -76.2,
+		"city": "Norfolk International Airport, Norfolk, VA"
 	},
 	"OTH": {
 		"lat": 43.416667,
-		"long": -124.25
+		"long": -124.25,
+		"city": "North Bend Muni Airport, North Bend, OR"
 	},
 	"XNA": {
 		"lat": 36.281667,
-		"long": -94.306667
+		"long": -94.306667,
+		"city": "Northwest Arkansas Regional Airport, Fayetteville/Springdale/Rogers, AR"
 	},
 	"OAK": {
 		"lat": 37.716667,
-		"long": -122.216667
+		"long": -122.216667,
+		"city": "Metropolitan Oakland International Airport, Oakland, CA"
 	},
 	"RHI": {
 		"lat": 45.633333,
-		"long": -89.45
+		"long": -89.45,
+		"city": "Rhinelander-Oneida County Airport, Rhinelander, WI"
 	},
 	"ONT": {
 		"lat": 34.056111,
-		"long": -117.601111
+		"long": -117.601111,
+		"city": "Ontario International Airport, Ontario, CA"
 	},
 	"MCO": {
 		"lat": 28.429444,
-		"long": -81.308889
+		"long": -81.308889,
+		"city": "Orlando International Airport, Orlando, FL"
 	},
 	"ATW": {
 		"lat": 44.266667,
-		"long": -88.516667
+		"long": -88.516667,
+		"city": "Outagamie County Regional Airport, Appleton, WI"
 	},
 	"PBI": {
 		"lat": 26.683056,
-		"long": -80.095556
+		"long": -80.095556,
+		"city": "Palm Beach International Airport, West Palm Beach, FL"
 	},
 	"EAT": {
 		"lat": 47.4,
-		"long": -120.2
+		"long": -120.2,
+		"city": "Pangborn Memorial Airport, Wenatchee, WA"
 	},
 	"PDT": {
 		"lat": 45.7,
-		"long": -118.833333
+		"long": -118.833333,
+		"city": "Eastern Oregon Regional At Pendleton Airport, Pendleton, OR"
 	},
 	"PHL": {
 		"lat": 39.871944,
-		"long": -75.241111
+		"long": -75.241111,
+		"city": "Philadelphia Intl Airport, Philadelphia, PA"
 	},
 	"GSO": {
 		"lat": 36.097778,
-		"long": -79.937222
+		"long": -79.937222,
+		"city": "Piedmont Triad International Airport, Greensboro, NC"
 	},
 	"PIR": {
 		"lat": 44.383333,
-		"long": -100.283333
+		"long": -100.283333,
+		"city": "Pierre Regional Airport, Pierre, SD"
 	},
 	"PIT": {
 		"lat": 40.491389,
-		"long": -80.232778
+		"long": -80.232778,
+		"city": "Pittsburgh International Airport, Pittsburgh, PA"
 	},
 	"CMH": {
 		"lat": 40.0,
-		"long": -82.883333
+		"long": -82.883333,
+		"city": "Port Columbus Intl Airport, Columbus, OH"
 	},
 	"PDX": {
 		"lat": 45.588611,
-		"long": -122.5975
+		"long": -122.5975,
+		"city": "Portland Intl Airport, Portland, OR"
 	},
 	"PUW": {
 		"lat": 46.75,
-		"long": -117.116667
+		"long": -117.116667,
+		"city": "Pullman/Moscow Regional Airport, Pullman/Moscow,ID, WA"
 	},
 	"MLI": {
 		"lat": 41.45,
-		"long": -90.516667
+		"long": -90.516667,
+		"city": "Quad City Airport, Moline, IL"
 	},
 	"RDU": {
 		"lat": 35.877778,
-		"long": -78.7875
+		"long": -78.7875,
+		"city": "Raleigh-Durham International Airport, Raleigh, NC"
 	},
 	"RDD": {
 		"lat": 40.5,
-		"long": -122.3
+		"long": -122.3,
+		"city": "Redding Municipal Airport, Redding, CA"
 	},
 	"DAB": {
 		"lat": 29.183333,
-		"long": -81.05
+		"long": -81.05,
+		"city": "Daytona Beach International Airport, Daytona Beach, FL"
 	},
 	"FSM": {
 		"lat": 35.333333,
-		"long": -94.366667
+		"long": -94.366667,
+		"city": "Fort Smith Regional Airport, Fort Smith, AR"
 	},
 	"PNS": {
 		"lat": 30.466667,
-		"long": -87.183333
+		"long": -87.183333,
+		"city": "Pensacola Regional Airport, Pensacola, FL"
 	},
 	"RAP": {
 		"lat": 44.033333,
-		"long": -103.05
+		"long": -103.05,
+		"city": "Rapid City Regional Airport, Rapid City, SD"
 	},
 	"SHV": {
 		"lat": 32.45,
-		"long": -93.816667
+		"long": -93.816667,
+		"city": "Shreveport Regional Airport, Shreveport, LA"
 	},
 	"RNO": {
 		"lat": 39.499167,
-		"long": -119.768056
+		"long": -119.768056,
+		"city": "Reno/Tahoe International Airport, Reno, NV"
 	},
 	"SDY": {
 		"lat": 47.716667,
-		"long": -104.183333
+		"long": -104.183333,
+		"city": "Sidney-Richland Municipal Airport, Sidney, MT"
 	},
 	"RIC": {
 		"lat": 37.5,
-		"long": -77.316667
+		"long": -77.316667,
+		"city": "Richmond International Airport, Richmond, VA"
 	},
 	"ROA": {
 		"lat": 37.316667,
-		"long": -79.983333
+		"long": -79.983333,
+		"city": "Roanoke Regional/ Woodrum Airport, Roanoke, VA"
 	},
 	"RDM": {
 		"lat": 44.25,
-		"long": -121.15
+		"long": -121.15,
+		"city": "Roberts Airport, Redmond, OR"
 	},
 	"MFR": {
 		"lat": 42.366667,
-		"long": -122.866667
+		"long": -122.866667,
+		"city": "Rogue Valley International Airport, Medford, OR"
 	},
 	"DCA": {
 		"lat": 38.851944,
-		"long": -77.037778
+		"long": -77.037778,
+		"city": "Ronald Reagan Washington National Airport, Arlington, VA"
 	},
 	"BTR": {
 		"lat": 30.533333,
-		"long": -91.15
+		"long": -91.15,
+		"city": "Baton Rouge Metropolitan, Ryan Airport, Baton Rouge, LA"
 	},
 	"SMF": {
 		"lat": 38.7,
-		"long": -121.616667
+		"long": -121.616667,
+		"city": "Sacramento International Airport, Sacramento, CA"
 	},
 	"SLC": {
 		"lat": 40.788333,
-		"long": -111.966667
+		"long": -111.966667,
+		"city": "Salt Lake City Intl Airport, Salt Lake City, UT"
 	},
 	"SAT": {
 		"lat": 29.533333,
-		"long": -98.466667
+		"long": -98.466667,
+		"city": "San Antonio International Airport, San Antonio, TX"
 	},
 	"SAN": {
 		"lat": 32.733333,
-		"long": -117.183333
+		"long": -117.183333,
+		"city": "San Diego International-Lindbergh Airport, San Diego, CA"
 	},
 	"SFO": {
 		"lat": 37.618889,
-		"long": -122.375
+		"long": -122.375,
+		"city": "San Francisco International Airport, San Francisco, CA"
 	},
 	"SBP": {
 		"lat": 35.236944,
-		"long": -120.641944
+		"long": -120.641944,
+		"city": "San Luis Obispo Co-McChesney Airport, San Luis Obispo, CA"
 	},
 	"SRQ": {
 		"lat": 27.395556,
-		"long": -82.554444
+		"long": -82.554444,
+		"city": "Sarasota Bradenton International Airport, Sarasota, FL"
 	},
 	"SAV": {
 		"lat": 32.133333,
-		"long": -81.2
+		"long": -81.2,
+		"city": "Savannah International Airport, Savannah, GA"
 	},
 	"MQT": {
 		"lat": 46.533333,
-		"long": -87.566667
+		"long": -87.566667,
+		"city": NaN
 	},
 	"SEA": {
 		"lat": 47.448889,
-		"long": -122.309444
+		"long": -122.309444,
+		"city": "Seattle-Tacoma Intl Airport, Seattle, WA"
 	},
 	"MSL": {
 		"lat": 34.75,
-		"long": -87.616667
+		"long": -87.616667,
+		"city": "Northwest Alabama Regional Airport, Muscle Shoals, AL"
 	},
 	"SUX": {
 		"lat": 42.4,
-		"long": -96.383333
+		"long": -96.383333,
+		"city": "Sioux Gateway Airport, Sioux City, IA"
 	},
 	"PHX": {
 		"lat": 33.433333,
-		"long": -112.033333
+		"long": -112.033333,
+		"city": "Phoenix Sky Harbor International Airport, Phoenix, AZ"
 	},
 	"SBN": {
 		"lat": 41.7,
-		"long": -86.316667
+		"long": -86.316667,
+		"city": "South Bend Regional Airport, South Bend, IN"
 	},
 	"RSW": {
 		"lat": 26.542222,
-		"long": -81.755278
+		"long": -81.755278,
+		"city": "Southwest Florida International Airport, Ft. Myers, FL"
 	},
 	"GEG": {
 		"lat": 47.619722,
-		"long": -117.533889
+		"long": -117.533889,
+		"city": "Spokane Intl Airport, Spokane, WA"
 	},
 	"SGF": {
 		"lat": 37.25,
-		"long": -93.383333
+		"long": -93.383333,
+		"city": "Springfield-Branson Regional Airport, Springfield, MO"
 	},
 	"SWF": {
 		"lat": 41.5,
-		"long": -74.016667
+		"long": -74.016667,
+		"city": "Stewart Airport, Newburgh, NY"
 	},
 	"SUN": {
 		"lat": 43.5,
-		"long": -114.316667
+		"long": -114.316667,
+		"city": "Friedman Memorial Airport, Hailey, ID"
 	},
 	"SYR": {
 		"lat": 43.116667,
-		"long": -76.116667
+		"long": -76.116667,
+		"city": "Syracuse-Hancock Intl Airport, Syracuse, NY"
 	},
 	"PVD": {
 		"lat": 41.733333,
-		"long": -71.433333
+		"long": -71.433333,
+		"city": "Theodore F Green State Airport, Providence, RI"
 	},
 	"TLH": {
 		"lat": 30.396389,
-		"long": -84.350278
+		"long": -84.350278,
+		"city": "Tallahassee Regional Airport, Tallahassee, FL"
 	},
 	"TPA": {
 		"lat": 27.975556,
-		"long": -82.533056
+		"long": -82.533056,
+		"city": "Tampa International Airport, Tampa, FL"
 	},
 	"TOL": {
 		"lat": 41.586944,
-		"long": -83.807778
+		"long": -83.807778,
+		"city": "Toledo Express Airport, Toledo, OH"
 	},
 	"ITH": {
 		"lat": 42.483333,
-		"long": -76.466667
+		"long": -76.466667,
+		"city": "Tompkins Cty Airport, Ithaca, NY"
 	},
 	"PSC": {
 		"lat": 46.264722,
-		"long": -119.119167
+		"long": -119.119167,
+		"city": "Tri-Cities Airport, Pasco, WA"
 	},
 	"TRI": {
 		"lat": 36.475278,
-		"long": -82.4075
+		"long": -82.4075,
+		"city": "Tri-Cities Regional Airport, Bristol, TN"
 	},
 	"TUS": {
 		"lat": 32.116111,
-		"long": -110.941111
+		"long": -110.941111,
+		"city": "Tucson International Airport, Tucson, AZ"
 	},
 	"TUL": {
 		"lat": 36.198333,
-		"long": -95.888056
+		"long": -95.888056,
+		"city": "Tulsa International Airport, Tulsa, OK"
 	},
 	"CMI": {
 		"lat": 40.033333,
-		"long": -88.283333
+		"long": -88.283333,
+		"city": "University of Illinois-Willard Airport, Champaign/Urbana, IL"
 	},
 	"SCE": {
 		"lat": 40.772222,
-		"long": -77.883333
+		"long": -77.883333,
+		"city": NaN
 	},
 	"ALW": {
 		"lat": 46.1,
-		"long": -118.3
+		"long": -118.3,
+		"city": "Walla Walla Regional Airport, Walla Walla, WA"
 	},
 	"IAD": {
 		"lat": 38.944444,
-		"long": -77.455833
+		"long": -77.455833,
+		"city": "Washington Dulles International Airport, Chantilly, VA"
 	},
 	"ALO": {
 		"lat": 42.55,
-		"long": -92.383333
+		"long": -92.383333,
+		"city": "Waterloo Municipal Airport, Waterloo, IA"
 	},
 	"ATY": {
 		"lat": 44.916667,
-		"long": -97.15
+		"long": -97.15,
+		"city": "Watertown Municipal Airport, Watertown, SD"
 	},
 	"HPN": {
 		"lat": 41.066667,
-		"long": -73.7
+		"long": -73.7,
+		"city": "Westchester Cty Airport, White Plains, NY"
 	},
 	"LBE": {
 		"lat": 40.283333,
-		"long": -79.4
+		"long": -79.4,
+		"city": "Arnold Palmer Regional Airport, Latrobe, PA"
 	},
 	"AVP": {
 		"lat": 41.338333,
-		"long": -75.723333
+		"long": -75.723333,
+		"city": "Wilkes-Barre/Scranton Intl Airport, Wilkes-Barre/Scranton, PA"
 	},
 	"OKC": {
 		"lat": 35.393056,
-		"long": -97.600833
+		"long": -97.600833,
+		"city": "Will Rogers World Airport, Oklahoma City, OK"
 	},
 	"HOU": {
 		"lat": 29.645556,
-		"long": -95.278889
+		"long": -95.278889,
+		"city": "William P Hobby Airport, Houston, TX"
 	},
 	"ILM": {
 		"lat": 34.270556,
-		"long": -77.9025
+		"long": -77.9025,
+		"city": "Wilmington International Airport, Wilmington, NC"
 	},
 	"YKM": {
 		"lat": 46.566667,
-		"long": -120.533333
+		"long": -120.533333,
+		"city": "Yakima Air Terminal Airport, Yakima, WA"
 	},
 	"HDN": {
 		"lat": 40.519444,
-		"long": -106.869444
+		"long": -106.869444,
+		"city": "Yampa Valley Airport, Hayden, CO"
 	},
 	"CRW": {
 		"lat": 38.366667,
-		"long": -81.6
+		"long": -81.6,
+		"city": "Yeager Airport, Charleston, WV"
 	}
 }
